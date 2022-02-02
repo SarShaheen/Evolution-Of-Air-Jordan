@@ -6,7 +6,7 @@ Users will be able to find the history of Jordan as well as images of the differ
 
 
 
-## Features
+# Features
 
 - __Navigation__
 
@@ -45,7 +45,7 @@ It is an important section as it shows how each pair differentiate from one anot
 
 - __Sign Up Form__
 
-The sign up section contains a form that collects users details and let's them sign up for a newsletter that will keep them up to date when the site is updated too.
+The sign up section contains a form that collects users details and let's them sign up for a newsletter that will keep them up to date when the site is updated.
 
 It asks them to submit their full name and email address.
 
@@ -55,4 +55,23 @@ It asks them to submit their full name and email address.
 
 I will test this website in different browsers to ensure it works with Chrome,Safari etc...
 
-I will ensure this project is responsive and functional on all screen sizes by using devtool toolbar.
+I will ensure this project is responsive and functional on all screen sizes by using devtools toolbar.
+
+I will confirm that all text throughout the site is easily visable and the links are accessible to users. 
+
+I will make sure that the sign up form will only submit once vaild details are entered.
+
+
+# Bugs
+
+I haven’t ran into any bugs yet but will update this if i do.
+
+# Validator Testing
+
+- __HTML__
+
+I will confirm no errors are returned after passing the offical W3C validator.
+
+- __CSS__
+
+I will confirm no errors are returned after passing the Jigsaw validator.
