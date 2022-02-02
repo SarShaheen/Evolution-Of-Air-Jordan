@@ -36,9 +36,23 @@ The Footer contains links to Evolution of Air Jordans social media sites. The li
 
 It promotes users to interact with the site through aditional sources.
 
-
 - __Sneakers page__
 
 The sneakers page displays images of the different type of Air Jordans produced and what they look like.
 
 It is an important section as it shows how each pair differentiate from one another and how they have been designed.
+
+
+- __Sign Up Form__
+
+The sign up section contains a form that collects users details and let's them sign up for a newsletter that will keep them up to date when the site is updated too.
+
+It asks them to submit their full name and email address.
+
+
+
+# Testing
+
+I will test this website in different browsers to ensure it works with Chrome,Safari etc...
+
+I will ensure this project is responsive and functional on all screen sizes by using devtool toolbar.
