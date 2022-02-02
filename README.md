@@ -35,4 +35,10 @@ The History section will allow the user to read 2 short paragraphs about how Air
 The Footer contains links to Evolution of Air Jordans social media sites. The links open in new tabs which allows the user to easily navigate back to the original webpage.
 
 It promotes users to interact with the site through aditional sources.
- 
+
+
+- __Sneakers page__
+
+The sneakers page displays images of the different type of Air Jordans produced and what they look like.
+
+It is an important section as it shows how each pair differentiate from one another and how they have been designed.
