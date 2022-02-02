@@ -26,7 +26,13 @@ The landing page shows a image of the air jordan logo with text overlaying to cl
 This welcomes them to the Evolution Of Air Jordan website and has a animation to make the experience enjoyable.
 
 
--__History Section__
+- __History Section__
 
 The History section will allow the user to read 2 short paragraphs about how Air jordan was founded and how it has changed over the years.
 
+- __Footer Section__
+
+The Footer contains links to Evolution of Air Jordans social media sites. The links open in new tabs which allows the user to easily navigate back to the original webpage.
+
+It promotes users to interact with the site through aditional sources.
+ 
