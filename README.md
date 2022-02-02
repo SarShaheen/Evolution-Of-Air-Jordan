@@ -17,3 +17,16 @@ To the right of the navigation bar is the History, Sneakers & Sign Up links whic
 The color used in the font works well with the background and the font used is in a style that looks like laces. 
 
 It is clearly displayed and allows the user to navigate through the links with ease.
+
+
+- __Landing Page__
+
+The landing page shows a image of the air jordan logo with text overlaying to cleary show where they are on the site.
+
+This welcomes them to the Evolution Of Air Jordan website and has a animation to make the experience enjoyable.
+
+
+-__History Section__
+
+The History section will allow the user to read 2 short paragraphs about how Air jordan was founded and how it has changed over the years.
+
