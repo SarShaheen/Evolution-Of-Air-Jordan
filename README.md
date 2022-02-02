@@ -6,7 +6,8 @@ Users will be able to find the history of Jordan as well as images of the differ
 
 (Insert Mockup image here)
 
-# Features
+## Features
+
 
 - __Navigation__
 
@@ -58,7 +59,7 @@ It asks them to submit their full name and email address.
 
 (Insert Sign Up form image here)
 
-# Testing
+## Testing
 
 I will test this website in different browsers to ensure it works with Chrome,Safari etc...
 
@@ -70,11 +71,13 @@ I will make sure that the sign up form will only submit once vaild details are e
 
 
 
-## Bugs
+### Bugs
 
 I haven’t ran into any bugs yet but will update this if i do.
 
-## Validator Testing
+
+### Validator Testing
+
 
 - __HTML__
 
@@ -86,12 +89,13 @@ I will confirm no errors are returned after passing the Jigsaw validator.
 
 (Insert Lighthouse image here)
 
-## Unfixed Bugs
+
+### Unfixed Bugs
 
 No unfixed bugs.
 
 
-# Deployment
+## Deployment
 
 This site will be deployed to Github pages. The steps to deploy are as follows:
 
@@ -101,13 +105,14 @@ This site will be deployed to Github pages. The steps to deploy are as follows:
 
 The live link - (Insert Live link here)
 
-# Credits
+## Credits
 
-## Contents
+
+### Contents
 
 The code to create the social media links was taken from CI Love Running project.
 
-# Media
+### Media
 
 The image in header and sign up form were taken from Google.
 
