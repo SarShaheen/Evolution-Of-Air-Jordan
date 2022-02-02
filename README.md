@@ -62,11 +62,11 @@ I will confirm that all text throughout the site is easily visable and the links
 I will make sure that the sign up form will only submit once vaild details are entered.
 
 
-# Bugs
+## Bugs
 
 I haven’t ran into any bugs yet but will update this if i do.
 
-# Validator Testing
+## Validator Testing
 
 - __HTML__
 
@@ -75,3 +75,20 @@ I will confirm no errors are returned after passing the offical W3C validator.
 - __CSS__
 
 I will confirm no errors are returned after passing the Jigsaw validator.
+
+
+## Unfixed Bugs
+
+No unfixed bugs.
+
+
+# Deployment
+
+This site will be deployed to Github pages. The steps to deploy are as follows:
+
+- In the GitHub repository, navigate to the Settings tab.
+- From the source section drop-down menu, select the Main Branch.
+- Once the main branch has been selected, the page will provide a link to the deployed website to view.
+
+
+
