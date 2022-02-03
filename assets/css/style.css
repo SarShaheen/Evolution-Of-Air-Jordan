@@ -119,13 +119,41 @@ span {
 }
 
 #center-1 {
-    width: 33%;
+    width: 23%;
     margin: 0 auto;
-    background-color: red;
 }
 
 #center-2 {
-    width: 33%;
+    width: 23%;
     margin: 0 auto;
-    background-color: blue;
+}
+
+.center-1-heading {
+    width: 200%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.center-1-heading h2 {
+    text-align: center;
+}
+
+.center-1-heading p {
+    text-align: center;
+}
+
+.center-2-heading {
+    width: 200%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.center-2-heading h2 {
+    text-align: center;
+}
+
+.center-2-heading p {
+    text-align: center;
 }

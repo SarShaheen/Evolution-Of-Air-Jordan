@@ -107,6 +107,7 @@ The live link - (Insert Live link here)
 
 ## Credits
 
+Information relating to Air Jordan History was taken from Wikipedia.
 
 ### Contents
 
@@ -114,5 +115,5 @@ The code to create the social media links and logo animation was taken from CI L
 
 ### Media
 
-The image in header and sign up form were taken from Google.
+The image in header and sign up form were taken from Unsplash.
 
