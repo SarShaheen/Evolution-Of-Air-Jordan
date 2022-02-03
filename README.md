@@ -65,7 +65,7 @@ I will test this website in different browsers to ensure it works with Chrome,Sa
 
 I will ensure this project is responsive and functional on all screen sizes by using devtools toolbar.
 
-I will confirm that all text throughout the site is easily visable and the links are accessible to users. 
+I will confirm that the all text throughout the site is visable and the links are accessible to users. 
 
 I will make sure that the sign up form will only submit once vaild details are entered.
 
@@ -73,7 +73,7 @@ I will make sure that the sign up form will only submit once vaild details are e
 
 ### Bugs
 
-I haven’t ran into any bugs yet but will update this if i do.
+I haven’t ran into any bugs yet.
 
 
 ### Validator Testing
@@ -115,7 +115,7 @@ The code to create the social media links and logo animation was taken from CI L
 
 ### Media
 
-The image in header and sign up form were taken from Unsplash.
+The image in the header, footer and sign up form were taken from Unsplash.
 
 The icons used for social media links were taken from Font Awesome.
 
