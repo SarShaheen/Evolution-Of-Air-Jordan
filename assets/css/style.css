@@ -20,6 +20,9 @@ h1, h2 {
     letter-spacing: 1px;
     color: #4C5457;
 }
+span {
+    color: #CC142D;
+}
 
 #logo {
     float: left;
@@ -39,10 +42,11 @@ h1, h2 {
 
 #menu a:hover {
     font-size: 120%;
+    color: #CC142D;
 }
 
 .active {
-    border-bottom: 1px solid #4C5457;
+    border-bottom: 1px solid #CC142D;
 }
 
 #menu li {
@@ -71,7 +75,12 @@ h1, h2 {
 #logo-outer {
     height: 600px;
     width: 100%;
+    position: relative;
     overflow: hidden;
+}
+
+#cover-text, #cover-text h2 {
+    color: #EBEBEB;
 }
 
 /* Logo Animation */
@@ -83,4 +92,21 @@ h1, h2 {
     to {
         transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 300%;
+    font-family: Yellowtail, sans-serif;
+    letter-spacing: 1px;
+    
+    width: 1100px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    bottom: 200px;
+    right: 150px;
+    position: absolute;
+
 }
