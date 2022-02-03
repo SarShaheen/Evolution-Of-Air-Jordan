@@ -117,4 +117,6 @@ The code to create the social media links and logo animation was taken from CI L
 
 The image in header and sign up form were taken from Unsplash.
 
+The icons used for social media links were taken from Font Awesome.
+
 
