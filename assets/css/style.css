@@ -164,3 +164,15 @@ span {
 .center-2-heading p {
     text-align: center;
 }
+
+/* Social Section */
+
+#social {
+    background-image: url(../images/jordan-13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+
+}
