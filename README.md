@@ -73,7 +73,7 @@ I will make sure that the sign up form will only submit once vaild details are e
 
 ### Bugs
 
-I haven’t ran into any bugs yet.
+I ran into a problem where the first media query was not running but after contacting a tutor, i realised that i was missing the closing bracket. After adding it, the code ran smoothly.
 
 
 ### Validator Testing
