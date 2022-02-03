@@ -197,5 +197,27 @@ footer{
     background-position: center;
     width: 100%;
     overflow: hidden;
+}
 
+/* Media queries */
+
+/* For Large/Medium screen sizes */
+@media screen and (max-width: 1200px) {
+    #history {
+        height: 1200px;
+        width: 65%;
+        margin: 0 auto;
+    }
+
+    #brand {
+        margin: 0;
+        padding: 30px 0;
+    }
+
+    #center-1, #center-2 {
+        width: 100%;
+        margin: 0;
+        padding: 30px 0;
+        clear: both;
+    }
 }
