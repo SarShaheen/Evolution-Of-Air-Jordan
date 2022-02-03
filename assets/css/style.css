@@ -25,8 +25,9 @@ span {
 }
 
 #logo {
-    float: left;
     font-size: 300%;
+    margin-left: 25px;
+    float: left;
 }
 
 /* Navigation links */
@@ -109,4 +110,22 @@ span {
     right: 150px;
     position: absolute;
 
+}
+
+/* History Section */
+
+#history {
+    height: 600px;
+}
+
+#center-1 {
+    width: 33%;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#center-2 {
+    width: 33%;
+    margin: 0 auto;
+    background-color: blue;
 }
