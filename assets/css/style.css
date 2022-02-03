@@ -118,44 +118,29 @@ span {
     font-size: 280%;
 }
 
-#center-1 {
-    width: 23%;
-    margin-top: 3%;
-    margin-left: 27%;
-}
-
-#center-2 {
-    width: 23%;
-    margin-left: 27%;
-}
-
-.center-1-heading {
-    width: 200%;
+.center-1 {
+    width: 100%;
     line-height: 20px;
-    clear: both;
     margin-bottom: 50px;
 }
-
-.center-1-heading h2 {
+.center-1 h2 {
     text-align: center;
 }
 
-.center-1-heading p {
+.center-1 p {
     text-align: center;
 }
 
-.center-2-heading {
-    width: 200%;
+.center-2 {
+    width: 100%;
     line-height: 20px;
-    clear: both;
     margin-bottom: 50px;
 }
-
-.center-2-heading h2 {
+.center-2 h2 {
     text-align: center;
 }
 
-.center-2-heading p {
+.center-2 p {
     text-align: center;
 }
 
