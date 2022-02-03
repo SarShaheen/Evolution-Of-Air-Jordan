@@ -10,4 +10,18 @@
 body {
     font-family: Raleway, sans-serif;
     font-weight: 200;
+    color: #26292C;
+}
+
+/* Logo and Headings */
+
+h1, h2 {
+    font-family: Yellowtail, sans-serif;
+    letter-spacing: 1px;
+    color: #4C5457;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
