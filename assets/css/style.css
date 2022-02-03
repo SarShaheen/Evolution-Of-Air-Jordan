@@ -64,7 +64,7 @@ span {
 /* Hero Image */
 
 #logo-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url("../images/Air-Jordan-Logo.jpg") no-repeat center center;
 
@@ -74,7 +74,7 @@ span {
 }
 
 #logo-outer {
-    height: 600px;
+    height: 500px;
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -101,7 +101,7 @@ span {
     letter-spacing: 1px;
     
     width: 1100px;
-    height: 150px;
+    height: 100px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -115,12 +115,12 @@ span {
 /* History Section */
 
 #history {
-    height: 600px;
+    height: 500px;
 }
 
 #brand {
     text-align: center;
-    margin: 20px 0;
+    margin: 50px 0;
     font-size: 280%;
 }
 
@@ -166,6 +166,29 @@ span {
 }
 
 /* Social Section */
+
+footer{
+    height: 150px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 170%;
+    margin: 1%;
+    padding: 5%;
+    color: #EBEBEB;
+}
+
+.social-media i:hover {
+    color: #CC142D;
+}
 
 #social {
     background-image: url(../images/jordan-13.jpg);
