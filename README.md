@@ -110,7 +110,7 @@ The live link - (Insert Live link here)
 
 ### Contents
 
-The code to create the social media links was taken from CI Love Running project.
+The code to create the social media links and logo animation was taken from CI Love Running project.
 
 ### Media
 
