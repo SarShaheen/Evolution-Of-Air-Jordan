@@ -101,7 +101,7 @@ span {
     letter-spacing: 1px;
     
     width: 1100px;
-    height: 200px;
+    height: 150px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -118,14 +118,21 @@ span {
     height: 600px;
 }
 
+#brand {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
 #center-1 {
     width: 23%;
-    margin: 0 auto;
+    margin-top: 3%;
+    margin-left: 27%;
 }
 
 #center-2 {
     width: 23%;
-    margin: 0 auto;
+    margin-left: 27%;
 }
 
 .center-1-heading {
