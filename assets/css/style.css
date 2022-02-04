@@ -160,6 +160,17 @@ span {
     width: 100%;
 }
 
+/* Sneakers Section */
+
+#sneakers {
+    clear: both;
+    column-count: 3;
+}
+
+#photos > img {
+    width: 90%;
+}
+
 /* Social Section */
 
 footer {
