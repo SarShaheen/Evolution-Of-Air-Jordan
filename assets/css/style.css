@@ -113,7 +113,7 @@ span {
 /* History Section */
 
 #history {
-    height: 31rem;
+    height: 25rem;
 }
 
 #brand {
@@ -148,6 +148,16 @@ span {
 
 .center-2 p {
     text-align: center;
+}
+
+#jordan-1 h3 {
+    text-align: center;
+}
+
+#jordan-1 {
+    background: url('../images/original-jordan-1.jpg') no-repeat center center;
+    height: 50rem;
+    width: 100%;
 }
 
 /* Social Section */
