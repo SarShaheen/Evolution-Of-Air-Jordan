@@ -32,7 +32,34 @@
             </ul>
         </nav>
     </header>
-    
+    <section>
+        <form action="https://formdump.codeinstitute.net/" method="POST">
+            <h2>Sign up for our newsletter!</h2>
+            <fieldset>
+            
+            <label for="fname"> First Name</label>
+            <input id="fname" type="text" name="first_name" required>
+            
+            <label for="lname"> Last Name</label>
+            <input id="lname" type="text" name="last_name" required>
+            
+            <label for="email">Email Address</label>
+			<input id="email" type="email" name="email_address" required>
+			
+		<label for="releases">Upcoming Releases</label>
+		<input id="releases" name="preferences" value="releases" type="radio" required>
+		
+		<label for="brand">Brand Updates</label>
+		<input id="brand" name="preferences" value="brand" type="radio">
+		
+		<label for="all">Both</label>
+		<input id="all" name="preferences" value="all" type="radio">
+		</fieldset>
+		
+		<input type="submit" value="Sign Me Up!">
+</form>
+
+    </section>
     <footer id="social">
         <ul class="social-media">
             <li>
