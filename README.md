@@ -27,19 +27,16 @@ The landing page shows a image of the air jordan logo with text overlaying to cl
 
 This welcomes them to the Evolution Of Air Jordan website and has a animation to make the experience enjoyable.
 
-![Screenshot](landing-page.png)
 
 - __History Section__
 
 The History section will allow the user to read 2 short paragraphs about how Air jordan was founded and how it has changed over the years.
 
-![Screenshot](history-page.png)
 
 - __Footer Section__
 
 The Footer contains links to Evolution of Air Jordans social media sites. The links open in new tabs which allows the user to easily navigate back to the original webpage.
 
-![Screenshot](socials.png)
 
 It promotes users to interact with the site through aditional sources.
 
@@ -49,7 +46,6 @@ The sneakers page displays images of the different type of Air Jordans produced 
 
 It is an important section as it shows how each pair differentiate from one another and how they have been designed.
 
-![Screenshot](sneakers-page.png)
 
 - __Sign Up Form__
 
@@ -57,7 +53,6 @@ The sign up section contains a form that collects users details and let's them s
 
 It asks them to submit their full name and email address.
 
-![Screenshot](signup-page.png)
 
 ## Testing
 
