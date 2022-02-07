@@ -34,7 +34,6 @@ span {
     line-height: 4rem;
 }
 #menu a:hover {
-    /* font-size: 120%; */
     color: #CC142D;
 }
 .active {
