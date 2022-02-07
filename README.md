@@ -19,7 +19,7 @@ The color used in the font works well with the background and the font used is i
 
 It is clearly displayed and allows the user to navigate through the links with ease.
 
-(Insert Nav bar image here)
+![Screenshot](nav-bar.png)
 
 - __Landing Page__
 
@@ -27,19 +27,19 @@ The landing page shows a image of the air jordan logo with text overlaying to cl
 
 This welcomes them to the Evolution Of Air Jordan website and has a animation to make the experience enjoyable.
 
-(Insert Landing page image here)
+![Screenshot](landing-page.png)
 
 - __History Section__
 
 The History section will allow the user to read 2 short paragraphs about how Air jordan was founded and how it has changed over the years.
 
-(Insert History section image here)
+![Screenshot](history-page.png)
 
 - __Footer Section__
 
 The Footer contains links to Evolution of Air Jordans social media sites. The links open in new tabs which allows the user to easily navigate back to the original webpage.
 
-(Insert Footer section image here)
+![Screenshot](socials.png)
 
 It promotes users to interact with the site through aditional sources.
 
@@ -49,7 +49,7 @@ The sneakers page displays images of the different type of Air Jordans produced 
 
 It is an important section as it shows how each pair differentiate from one another and how they have been designed.
 
-(Insert Sneakers page image here)
+![Screenshot](sneakers-page.png)
 
 - __Sign Up Form__
 
@@ -57,23 +57,23 @@ The sign up section contains a form that collects users details and let's them s
 
 It asks them to submit their full name and email address.
 
-(Insert Sign Up form image here)
+![Screenshot](signup-page.png)
 
 ## Testing
 
-I will test this website in different browsers to ensure it works with Chrome,Safari etc...
+I have tested this website in different browsers to ensure it works with Chrome,Safari etc...
 
-I will ensure this project is responsive and functional on all screen sizes by using devtools toolbar.
+I have ensured  this project is responsive and functional on all screen sizes by using devtools toolbar.
 
-I will confirm that the all text throughout the site is visable and the links are accessible to users. 
+I confirm that the all text throughout the site is visable and the links are accessible to users. 
 
-I will make sure that the sign up form will only submit once vaild details are entered.
+I have made sure that the sign up form will only submit once vaild details are entered.
 
 
 
 ### Bugs
 
-I ran into a problem where the first media query was not running but after contacting a tutor, i realised that i was missing the closing bracket. After adding it, the code ran smoothly.
+I ran into a problem where the first media query for the sneakers page was not running but after looking through the code, i realised that i was missing the closing bracket. After adding it, the code ran smoothly.
 
 
 ### Validator Testing
@@ -83,11 +83,13 @@ I ran into a problem where the first media query was not running but after conta
 
 I will confirm no errors are returned after passing the offical W3C validator.
 
+![Screenshot](html-validator.png)
+
 - __CSS__
 
 I will confirm no errors are returned after passing the Jigsaw validator.
 
-(Insert Lighthouse image here)
+![Screenshot](css-validator.png)
 
 
 ### Unfixed Bugs
@@ -103,7 +105,8 @@ This site will be deployed to Github pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Main Branch.
 - Once the main branch has been selected, the page will provide a link to the deployed website to view.
 
-The live link - (Insert Live link here)
+The live link -
+<a href="https://sarshaheen.github.io/Evolution-Of-Air-Jordan/" target="_blank" rel="noopener" aria-label="Visit Evolution Of Air Jordan (opens in a new tab)">Click Here!</a>
 
 ## Credits
 
