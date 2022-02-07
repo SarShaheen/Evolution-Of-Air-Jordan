@@ -15,7 +15,7 @@ The navigation bar that appears at the top of the page, shows the website name i
 
 To the right of the navigation bar is the History, Sneakers & Sign Up links which will take the user to another page within the site.
 
-The color used in the font works well with the background and the font used is in a style that looks like laces. 
+The colors used in the font works well with the background and the font used is in a style that looks like laces. 
 
 It is clearly displayed and allows the user to navigate through the links with ease.
 
@@ -23,7 +23,7 @@ It is clearly displayed and allows the user to navigate through the links with e
 
 - __Landing Page__
 
-The landing page shows a image of the air jordan logo with text overlaying to cleary show where they are on the site.
+The landing page shows a image of the air jordan logo with text overlaying.
 
 This welcomes them to the Evolution Of Air Jordan website and has a animation to make the experience enjoyable.
 
@@ -31,7 +31,7 @@ This welcomes them to the Evolution Of Air Jordan website and has a animation to
 
 - __History Section__
 
-The History section will allow the user to read 2 short paragraphs about how Air jordan was founded and how it has changed over the years.
+The History section allows the user to read 2 short paragraphs. The first is about how Air jordan was founded and how it has changed over the years whilst the second dicusses collaborations the brand has has with different designers.
 
 
 
@@ -55,7 +55,7 @@ It is an important section as it shows how each pair differentiate from one anot
 
 The sign up section contains a form that collects users details and let's them sign up for a newsletter that will keep them up to date when the site is updated.
 
-It asks them to submit their full name and email address.
+It asks them to submit their name, email address and whether they want to be updated on upcoming releases, brand updates or both.
 
 
 
@@ -63,7 +63,7 @@ It asks them to submit their full name and email address.
 
 I have tested this website in different browsers to ensure it works with Chrome,Safari etc...
 
-I have ensured  this project is responsive and functional on all screen sizes by using devtools toolbar.
+I have ensured this project is responsive and functional on all screen sizes by using devtools toolbar.
 
 I confirm that the all text throughout the site is visable and the links are accessible to users. 
 
@@ -81,13 +81,13 @@ I ran into a problem where the first media query for the sneakers page was not r
 
 - __HTML__
 
-I will confirm no errors are returned after passing the offical W3C validator.
+I confirm no errors are returned after passing the offical W3C validator.
 
 ![Screenshot](html-validator.png)
 
 - __CSS__
 
-I will confirm no errors are returned after passing the Jigsaw validator.
+I confirm no errors are returned after passing the Jigsaw validator.
 
 ![Screenshot](css-validator.png)
 
@@ -99,7 +99,7 @@ No unfixed bugs.
 
 ## Deployment
 
-This site will be deployed to Github pages. The steps to deploy are as follows:
+This site has been deployed to Github pages. The steps to deploy were as follows:
 
 - In the GitHub repository, navigate to the Settings tab.
 - From the source section drop-down menu, select the Main Branch.
@@ -110,11 +110,11 @@ The live link -
 
 ## Credits
 
-Information relating to Air Jordan History was taken from Wikipedia.
+Information relating to Air Jordan History section was taken from Wikipedia.
 
 ### Contents
 
-The code to create the social media links and logo animation was taken from CI Love Running project.
+The code to create the social media links was taken from CI Love Running project.
 
 ### Media
 
