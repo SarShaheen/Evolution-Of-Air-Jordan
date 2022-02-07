@@ -139,6 +139,60 @@ span {
 #photos > img {
     width: 100%;
 }
+
+/* Form Section */
+.signup-section {
+    clear: both;
+    background: url("../images/jordan-13.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+.signup-form {
+    margin: 300px 10px;
+    color: #EBEBEB;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 1200px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+.signup-form h2 {
+    color: #ADAEAE;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #EBEBEB;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #EBEBEB;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #CC142D;
+}
+
+.signup-button {
+    margin-top: 5px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #CC142D;
+    color: #EBEBEB;
+    display: block;
+}
+
+.signup-button:hover {
+    background-color: #26292C;
+    color: #CC142D;
+}
+
 /* Social Section */
 footer {
     height: 10rem;
@@ -156,7 +210,7 @@ footer {
     font-size: 180%;
     margin: 0 1%;
     padding: 4%;
-    color: #EBEBEB;
+    color: #26292C;
 }
 .social-media i:hover {
     color: #CC142D;
