@@ -41,7 +41,7 @@ The Footer contains links to Evolution of Air Jordans social media sites. The li
 
 
 
-It promotes users to interact with the site through aditional sources.
+It promotes users to interact with the site through additional sources.
 
 - __Sneakers page__
 
