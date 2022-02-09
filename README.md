@@ -4,7 +4,19 @@ The Evolution Of Air Jordan website is for sneaker heads & Air Jordan fanatics t
 
 Users will be able to find the history of Jordan as well as images of the different sneakers and a sign up form to stay up to date with. It is targeted towards people who have a interest in the Air Jordan legacy and are curious to learn more.
 
+Link to website -
+<a href="https://sarshaheen.github.io/Evolution-Of-Air-Jordan/" target="_blank" rel="noopener" aria-label="Visit Evolution Of Air Jordan (opens in a new tab)"> Click Here!</a>
+
 ![Screenshot](mockup.png)
+
+## User Stories
+
+As a user, i want to be able to:
+
+- Read about the history of the brand.
+- Find images of Air Jordans.
+- Sign up to receive more information.
+- Find a way to stay in touch with the website through social media.
 
 ## Features
 
@@ -69,7 +81,15 @@ I confirm that the all text throughout the website is visable and the links are 
 
 I have made sure that the sign up form will only submit once vaild details are entered.
 
+### User Story Testing 
 
+- Read about the history of the brand: Upon opening the website the history of Air Jordans is displayed across the home page (beneath the banner) along with a navigation to other pages.
+
+- Find images of Air Jordans: If i click onto the Sneakers page, i am presented with a gallery of images showing different types of Air Jordans.
+
+- Sign up to receive more information: There is a easily located sign up page within the navigation bar that allows me to enter my details and choose what i would like to be updated on.
+
+- Find a way to stay in touch with the website through social media: Across the bottom of the website are social media icons which upon clicking, opens up the corresponding social media site in a new tab.
 
 ### Bugs
 
@@ -104,9 +124,6 @@ This site has been deployed to Github pages. The steps to deploy were as follows
 - In the GitHub repository, navigate to the Settings tab.
 - From the source section drop-down menu, select the Main Branch.
 - Once the main branch has been selected, the page will provide a link to the deployed website to view.
-
-The live link -
-<a href="https://sarshaheen.github.io/Evolution-Of-Air-Jordan/" target="_blank" rel="noopener" aria-label="Visit Evolution Of Air Jordan (opens in a new tab)">Click Here!</a>
 
 ## Credits
 
