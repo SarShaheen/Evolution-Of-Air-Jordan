@@ -37,7 +37,7 @@ The History section allows the user to read 2 short paragraphs. The first is abo
 
 - __Footer Section__
 
-The Footer contains links to Evolution of Air Jordans social media sites. The links open in new tabs which allows the user to easily navigate back to the original webpage.
+The Footer contains links to Evolution of Air Jordans social media sites. The links open in new tabs which allows the user to navigate back to the original webpage.
 
 
 
@@ -65,7 +65,7 @@ I have tested this website in different browsers to ensure it works with Chrome,
 
 I have ensured this project is responsive and functional on all screen sizes by using devtools toolbar.
 
-I confirm that the all text throughout the site is visable and the links are accessible to users. 
+I confirm that the all text throughout the website is visable and the links are accessible to users. 
 
 I have made sure that the sign up form will only submit once vaild details are entered.
 
