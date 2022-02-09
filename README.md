@@ -16,7 +16,7 @@ As a user, i want to be able to:
 - Read about the history of the brand.
 - Find images of Air Jordans.
 - Sign up to receive more information.
-- Find a way to stay in touch with the website through social media.
+- Find a way to stay in contact through social media.
 
 ## Features
 
@@ -89,7 +89,7 @@ I have made sure that the sign up form will only submit once vaild details are e
 
 - Sign up to receive more information: There is a easily located sign up page within the navigation bar that allows me to enter my details and choose what i would like to be updated on.
 
-- Find a way to stay in touch with the website through social media: Across the bottom of the website are social media icons which upon clicking, opens up the corresponding social media site in a new tab.
+- Find a way to stay in contact through social media: Across the bottom of the website are social media icons which upon clicking, opens up the corresponding site in a new tab, making it easy to navigate back to the original webpage.
 
 ### Bugs
 
