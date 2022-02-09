@@ -132,7 +132,7 @@ I used GitPod as a IDE and local repository & GitHub as a remote repository. The
 
 ## Deployment
 
-This site has been deployed to Github pages. The steps to deploy were as follows:
+This site has been deployed through GitHub pages. The steps to deploy were as follows:
 
 - In the GitHub repository, navigate to the Settings tab.
 - From the source section drop-down menu, select the Main Branch.
