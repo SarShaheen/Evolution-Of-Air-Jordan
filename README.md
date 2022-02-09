@@ -128,7 +128,7 @@ I used GitPod as a IDE and local repository & GitHub as a remote repository. The
 - The process for saving, commiting and pushing it to remote repository was to (done in terminal): 
   - `git add . ` for adding work to git.
   - `git commit -m "Commit message" ` to commit the work on the stage.
-  - `git push ` to update work to GitHub.
+  - `git push ` to push work up to GitHub.
 
 ## Deployment
 
